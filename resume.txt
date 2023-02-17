@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ambria Underwood</title>
+<title>Customer Support Specialist</title>
+</head>
+<body>
+<header>
+	<h1>Customer Support Specialist</h1>
+</header>	
+<main>
+	<aside>
+		<h2>Contact</h2>
+		919-817-2847 
+		amunderwood2762@gmail.com 
+		<h2>PROFESSIONAL SKILLS</h2>
+		<ul>
+			<li>Mastery of Microsoft Office (Word, Excel, PowerPoint) and Google Suite (Docs, Sheets, Slides)
+			</li>
+			<li>Cultivate an engaging and more personalized experience for a customer centric approach
+			</li>
+			<li>Possess strong passion for providing friendly service 
+			</li>
+			<li>Highly skilled at diffusing frustrated customers to ensure successful complaint resolution 
+			</li>
+			<li>Demonstrate quick on-the-spot decision making to decide which solution is best
+			</li>
+			<li>Experience working with support and sales teams to analyze important metrics
+			</li>
+			<li>Act as a compass to guide and provide exceptional support for long-time and new customers 
+			</li>
+			<li>Effectively administer advice in an interesting but relevant way that is easy to understand
+			</li>
+			<li>Simultaneously manage multiple accounts using organizational and multitasking abilities
+			</li>
+			<li>Proficient in following SOP’s and optimizing resources at hand
+			</li>
+		</ul>
+	</aside>
+	<h2>EDUCATION</h2>
+	<p><span class="school"></span>Rolesville High School</span>, Rolesville, NC June 2017
+	General Studies
+	Graduated Cum Laude</p>
+
+	<h2>WORK EXPERIENCE</h2>
+	<ul>
+		<li>
+			<p><span>Continuum Global Solutions (Raleigh, NC)</span> - Customer Care Representative</p>
+			<p>April 2022- Present </p>
+			<ul>
+				<li>Responsible for managing 20+ accounts a day in the telecommunications industry while ensuring quality service. Handle complex concerns ranging from billing to device related troubleshooting in one call. Reduced churn, increased revenue, and lead the Verizon 5g mobile plan step up renewal and expansion efforts for customer profile maximizing clients’ success with company products. Received 98% survey satisfaction rating from customers after completed phone calls.
+				</li>
+				<li>Respond timely and professionally to customer care inquiries via incoming phone, email, or text 
+				</li>
+				<li>Deliver information regarding company’s offerings and perks to boost wireless experience  
+				</li>
+				<li>Positively resolve conflict and diffuse difficult situations by showing empathy and compassion
+				</li>
+				<li>Focus on adding value and customer retention by promoting new products and services for the supporting client
+				</li>
+				<li>Analyze customer data to assist with identifying solutions to complex hardware and software related issues
+				</li>
+				<li>Ability to listen and solve problems under pressure within a tight deadline 
+				</li>
+				<li>Perform detailed client onboarding to ensure new customers understand the services available to them  
+				</li>
+				<li>Maintain financial accounts by negotiating and processing customer adjustments timely 
+				</li>
+			</ul>
+		</li>
+		<li>
+			<p><span>Conduent (Raleigh, NC)</span> - Customer Support Advisor</p>
+			<p>March 2021 - March 2022 </p>
+			<ul>
+				<li>Became the friendly voice of Apple by educating customers and providing exceptional live support via phone and chat
+				</li>
+				<li>Shared enthusiastic guidance to troubleshoot Apple hardware and software across the globe
+				</li>
+				<li>Built and managed customer relationships to become a trusted advisor for the customer
+				</li>
+				<li>Certified and extensively trained in Apple IOS devices such as iPhones, iPads, and Mac
+				</li>
+				<li>Worked proactively by anticipating customer needs to ensure customer satisfaction and business needs are met
+				</li>
+				<li>Understood the overall vision of the company by using knowledge of clients’ new products to strengthen and enrich the relationship between its customers
+				</li>
+				<li>Motivated a team of 20+ to effectively resolve customer complaints with the appropriate action
+				</li>
+				<li>Cross trained in account security to protect customers identity 
+				</li>
+				<li>Effectively managed approximately 20 incoming calls daily
+				</li>
+			</ul>
+		</li>
+		<li>
+			<p><span>Omega Home Care Agency (Raleigh,NC)</span> - Office Manager</p>
+			<p>August 2019 - February 2021</p>
+			<ul>
+				<li>Developed successful administrative strategies to control the release of proprietary information
+				</li>
+				<li>Typed documents such as medical and clinical correspondences 
+				</li>
+				<li>Processed orders for office supplies as needed, determined charges, and oversaw billing and payments
+				</li>
+				<li>Monitored performance to ensure accurate patient, billing, and insurance information is obtained and maintained in patient files and billing system 
+				</li>
+				<li>Performed data entry functions as needed to guarantee office operations run efficiently 
+				</li>
+				<li>Assure coverage in every area of the facility 
+				</li>
+				<li>Filed medical documents into the correct patients’ charts
+				</li>
+				<li>Coordinated the delivery of quality patient care to all clients
+				</li>
+			</ul>
+		</li>
+
+	</section>
+</main>	
+
+
+</body>
+</html>
